@@ -1,4 +1,4 @@
 #!/bin/bash
-ln -sf ~/dotfile/.bashrc ~/.bashrc
-ln -sf ~/dotfile/.zshrc ~/.zshrc
-ln -sf ~/dotfile/.p10k.zsh ~/.p10k.zsh
+ln -sf ~/dotfiles/.bashrc ~/.bashrc
+ln -sf ~/dotfiles/.zshrc ~/.zshrc
+ln -sf ~/dotfiles/.p10k.zsh ~/.p10k.zsh
