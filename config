@@ -1,0 +1,69 @@
+VisualHostKey=yes
+
+Host ll-crm
+	Hostname 195.201.26.37
+	User root
+
+Host ll-pbx
+	Hostname 195.201.29.111
+	User root
+
+Host chilli-crm
+	Hostname 195.201.31.250
+	User root
+
+Host chilli-pbx
+	Hostname 116.203.132.202
+	User root
+
+Host ptt-pbx
+	Hostname 116.203.215.19
+	User root
+
+Host slonce-crm
+	Hostname 78.46.246.198
+	User root
+
+Host slonce-pbx
+	Hostname 159.69.211.171
+	User root
+
+Host test-crm
+	Hostname 78.46.200.47
+	User root
+
+Host test-pbx
+	Hostname 78.47.200.71
+	User root
+
+Host backup
+	Hostname 95.217.128.5
+	User root
+
+Host drivespace-sv1
+	Hostname 95.216.178.81
+	User root
+
+Host ll-new
+	Hostname 138.201.118.117
+	User root
+
+Host maj-crm
+	Hostname 195.201.16.156
+	User root
+
+Host csg-crm
+	Hostname 135.181.83.179
+	User root
+
+Host csg-leads
+	Hostname 168.119.187.19
+	User root
+
+Host csg-pbx
+	Hostname 95.217.213.195
+	User root
+
+Host csg-test
+	Hostname 135.181.102.238
+	User root
